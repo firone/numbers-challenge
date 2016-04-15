@@ -10,11 +10,6 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.amazonaws</groupId>
-            <artifactId>aws-java-sdk</artifactId>
-            <version>1.9.36</version>
-        </dependency>
-        <dependency>
             <groupId>com.firone</groupId>
             <artifactId>test-utils</artifactId>
             <version>1.9.5</version>
