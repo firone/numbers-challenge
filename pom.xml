@@ -33,7 +33,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>script.UploadToS3</mainClass>
+                            <mainClass>challenge.NumberFinder</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
